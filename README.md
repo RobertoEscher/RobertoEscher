@@ -55,7 +55,7 @@ PUC-Rio
 
 ## Professional Contact
 
-LinkedIn: https://www.linkedin.com/in/robertoescher
+LinkedIn: https://www.linkedin.com/in/roberto-escher
 
 GitHub: https://github.com/RobertoEscher
 
