@@ -1,83 +1,64 @@
-# Olá! Eu sou Roberto Escher 👋
+# Roberto Escher
 
-### Software Developer | Backend | C# | .NET
+**Software Developer | Backend Engineering | C# / .NET**
 
-Profissional de tecnologia com aproximadamente 25 anos de experiência em desenvolvimento, sustentação e evolução de sistemas corporativos.
+Professional with approximately 25 years of experience in software development, enterprise systems, application support and systems integration.
 
-Minha trajetória inclui projetos de CRM, especialmente Siebel, integração entre sistemas, bancos de dados, análise de problemas complexos e desenvolvimento de soluções de software.
+Throughout my career, I have worked on corporate solutions across different business sectors, with significant experience in Siebel CRM, database technologies, troubleshooting and application lifecycle management.
 
-Atualmente, estou direcionando meus estudos e projetos para o ecossistema **C# e .NET**, com foco em desenvolvimento backend, APIs REST, arquitetura de software e boas práticas de engenharia.
+Currently focused on backend development using C# and the .NET ecosystem, building software solutions with an emphasis on clean code, object-oriented programming, software architecture and maintainability.
 
-Gosto de entender problemas, construir soluções eficientes e escrever código organizado, sustentável e de fácil manutenção.
+## Technical Skills
 
----
+**Backend Development**
 
-## 🚀 Tecnologias e ferramentas
+C#, .NET, ASP.NET Core, REST APIs, Object-Oriented Programming, Entity Framework Core.
 
-**Desenvolvimento e Backend**
-- C#
-- .NET
-- ASP.NET Core
-- APIs REST
-- Programação Orientada a Objetos
-- Entity Framework Core
+**Databases**
 
-**Banco de dados**
-- Microsoft SQL Server
-- PostgreSQL
-- Oracle Database
-- SQL e PL/SQL
+Microsoft SQL Server, PostgreSQL, Oracle Database, SQL and PL/SQL.
 
-**Infraestrutura e ferramentas**
-- Docker
-- Linux
-- Git e GitHub
-- Shell Script
+**Infrastructure & Tools**
 
-**Experiência profissional**
-- Siebel CRM
-- Integração de sistemas
-- Sustentação de aplicações corporativas
-- Troubleshooting e análise de causa raiz
-- Ambientes de alta disponibilidade
+Docker, Linux, Git, GitHub and Shell Scripting.
 
----
+**Enterprise Systems**
 
-## 💻 Projetos em destaque
+Siebel CRM, systems integration, application support, troubleshooting and root cause analysis.
+
+## Selected Projects
 
 ### SistemaRestaurante
 
-Sistema de gestão de restaurante com controle de estoque e sugestão de compras baseada no histórico de vendas e nas receitas dos pratos.
+Restaurant management application focused on order management, inventory control and purchasing recommendations.
 
-**Tecnologias:** C#, .NET, Entity Framework Core, SQL Server e Docker.
+Technologies: C#, .NET, Entity Framework Core, SQL Server and Docker.
 
-[Conheça o projeto](https://github.com/RobertoEscher/SistemaRestaurante)
+[View repository](https://github.com/RobertoEscher/SistemaRestaurante)
 
----
+## Current Focus
 
-## 🎯 Atualmente estudando e desenvolvendo
+- Backend application development with C# and .NET.
+- REST API design and implementation.
+- Software architecture and Domain-Driven Design.
+- Database design and data persistence.
+- Automated testing and software quality.
+- Containerization and deployment with Docker.
 
-- Desenvolvimento backend com C# e .NET.
-- Construção de APIs REST com ASP.NET Core.
-- Arquitetura de software e Domain-Driven Design (DDD).
-- Persistência de dados com Entity Framework Core.
-- Testes automatizados e qualidade de código.
-- Docker e práticas de desenvolvimento e implantação.
+## Education
 
----
+**B.Sc. in Computer Science**  
+Universidade Veiga de Almeida
 
-## 🎓 Formação acadêmica
+**Postgraduate Degree in Systems Analysis, Design and Management**  
+PUC-Rio
 
-- Bacharelado em Ciência da Computação — Universidade Veiga de Almeida.
-- Pós-graduação em Análise, Projeto e Gerência de Sistemas — PUC-Rio.
+## Professional Contact
 
----
+LinkedIn: https://www.linkedin.com/in/roberto-escher-60972945
 
-## 📫 Vamos nos conectar?
-
-- **GitHub:** [github.com/RobertoEscher](https://github.com/RobertoEscher)
-- **LinkedIn:** [linkedin.com/in/roberto-escher-60972945](https://www.linkedin.com/in/roberto-escher-60972945)
+GitHub: https://github.com/RobertoEscher
 
 ---
 
-*Transformando experiência em tecnologia em soluções de software.*
+*Building reliable software through experience, engineering and continuous improvement.*
